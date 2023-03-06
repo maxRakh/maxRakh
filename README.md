@@ -1,5 +1,4 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Maxim👋</h1>
 	<h3>Junior Python Developer</h3>
 	<h3>Language and tools</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>
@@ -20,7 +19,7 @@
 **maxRakh/maxRakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<h1>Hi there, I'm Maxim👋</h1>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
